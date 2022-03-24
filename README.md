@@ -1,3 +1,3 @@
 # IBM-repository
 Practicing Github
-## this is my first Github wandering.
+## this is my first Github wandering..
